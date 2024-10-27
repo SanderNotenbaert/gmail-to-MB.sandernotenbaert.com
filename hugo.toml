@@ -1,0 +1,4 @@
+languageCode = 'en-us'
+baseURL = "https://gmail-to-MB.sandernotenbaert.com"
+title = "Terms of Service and Privacy Policy"
+disableKinds = ["taxonomy", "taxonomyTerm", "section", "sitemap", "RSS"]  # Simplifies the structure
