@@ -6,6 +6,7 @@ post_url: "https://script.google.com/macros/s/AKfycbyYUWNnvMX4HDd7JhgTKky0cXITKg
 ---
 
 If you need technical support concerning the [Moneybird Gmail add-on](https://workspace.google.com/marketplace/app/moneybird_add-on), please fill out the form below, and we’ll get back to you as soon as possible.
+
 {{< rawhtml >}}
 
 <form action={{< param post_url>}} method="POST">
