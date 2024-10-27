@@ -22,9 +22,9 @@ If you need technical support concerning the [Moneybird Gmail add-on](https://wo
     
     <div class="">
         <label for="message">Message:</label>
-        <textarea id="message" name="message" rows="5" required></textarea>
+        <textarea id="message" name="message" rows="8" required></textarea>
     </div>
-    <input type="hidden" name="source" value="Moneybird Gmail add-on" /> 
+    <input type="hidden" name="source" id="source" value="Moneybird Gmail add-on" /> 
     <div class="">
         <button type="submit">Submit</button>
     </div>
