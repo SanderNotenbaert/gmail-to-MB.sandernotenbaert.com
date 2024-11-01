@@ -104,3 +104,30 @@ button[type="submit"] {
 button[type="submit"]:hover {
   background-color: #005bb5; /* Darker blue on hover */
 }
+
+/* Styling for the installation button */
+.install-button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #ffffff;
+  background-color: #0073e6;
+  text-decoration: none;
+  border-radius: 25px;
+  box-shadow: 0 4px 6px rgba(0, 115, 230, 0.3);
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.install-button:hover {
+  background-color: #005bb5; /* Darker blue on hover */
+  box-shadow: 0 6px 12px rgba(0, 91, 181, 0.4);
+  transform: translateY(-2px); /* Slight lift effect */
+}
+
+.install-button:active {
+  background-color: #004494; /* Even darker blue on click */
+  box-shadow: 0 3px 6px rgba(0, 91, 181, 0.3);
+  transform: translateY(0); /* Reset lift effect */
+}

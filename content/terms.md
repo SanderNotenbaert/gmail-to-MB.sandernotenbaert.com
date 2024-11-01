@@ -45,4 +45,4 @@ We reserve the right, at our sole discretion, to update or revise these Terms at
 
 ## 8. Contact Us
 
-If you have any questions about these Terms, please contact us at [contact@sandernotenbaert.com](mailto:contact@sandernotenbaert.com).
+If you have any questions about these Terms, please [contact us here](/contact/).

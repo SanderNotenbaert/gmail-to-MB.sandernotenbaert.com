@@ -109,10 +109,7 @@ Our Service is not directed to children under 13. We do not knowingly collect pe
 
 ## 11. Contact Us
 
-If you have questions about this Privacy Policy or our privacy practices, please contact us at:
-
-- Email: [contact@sandernotenbaert.com](mailto:contact@sandernotenbaert.com)
-<!-- - [Additional Contact Information] -->
+If you have questions about this Privacy Policy or our privacy practices, please [contact us here](/contact/).
 
 ## 12. Additional Information for EU Users
 
