@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moneybird Gmail Add-on</title>
+    <link>https://gmail-to-mb.sandernotenbaert.com/</link>
+    <description>Recent content on Moneybird Gmail Add-on</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gmail-to-mb.sandernotenbaert.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Message Sent</title>
+      <link>https://gmail-to-mb.sandernotenbaert.com/confirmation/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gmail-to-mb.sandernotenbaert.com/confirmation/</guid>
+      <description>&lt;h3 id=&#34;done&#34;&gt;Done!&lt;/h3&gt;&#xA;&lt;p&gt;Thank you! Your message has been sent successfully. We’ll get back to you shortly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://gmail-to-mb.sandernotenbaert.com/privacy/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gmail-to-mb.sandernotenbaert.com/privacy/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Last updated: 27-10-2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;This Privacy Policy describes how the Moneybird Gmail add-on (&amp;ldquo;Service,&amp;rdquo; &amp;ldquo;Add-on,&amp;rdquo; &amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) collects, uses, and handles your information.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h2&gt;&#xA;&lt;h3 id=&#34;11-information-you-provide&#34;&gt;1.1 Information You Provide&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;OAuth Tokens&lt;/strong&gt;: We store authentication tokens in your Google Apps Script &lt;code&gt;userProperties&lt;/code&gt; to maintain integration between Gmail and Moneybird.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email Content&lt;/strong&gt;: We process email content and attachments only when you actively use the add-on to interact with Moneybird. Importantly, we do not store any email content or attachments; they are processed in-memory and transmitted directly to Moneybird via their API.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Moneybird Account Information&lt;/strong&gt;: Basic account information required to facilitate the integration with your Moneybird account.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;12-automatically-collected-information&#34;&gt;1.2 Automatically Collected Information&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usage Data&lt;/strong&gt;: Basic information about how you interact with the add-on, including frequency of use and features accessed.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Technical Information&lt;/strong&gt;: Browser type, device information, and other technical details necessary for service operation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-how-we-use-your-information&#34;&gt;2. How We Use Your Information&lt;/h2&gt;&#xA;&lt;p&gt;We use the collected information solely to:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technical Support</title>
+      <link>https://gmail-to-mb.sandernotenbaert.com/contact/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gmail-to-mb.sandernotenbaert.com/contact/</guid>
+      <description>&lt;p&gt;If you need technical support concerning the &lt;a href=&#34;https://workspace.google.com/marketplace/app/moneybird_add-on&#34; target=&#34;_blank&#34; &gt;Moneybird Gmail add-on&lt;/a&gt;&#xA;&#xA;, please fill out the form below, and we’ll get back to you as soon as possible.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&lt;form action=https://script.google.com/macros/s/AKfycbyYUWNnvMX4HDd7JhgTKky0cXITKgm-VQYCL56aFVvqRYP7VC5zvnG_pFxFGOmj9iAT1w/exec&#xA; method=&#34;POST&#34;&gt;&#xA;    &lt;div class=&#34;&#34;&gt;&#xA;    &lt;label for=&#34;name&#34;&gt;Name:&lt;/label&gt;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div class=&#34;&#34;&gt;&#xA;        &lt;label for=&#34;email&#34;&gt;Email:&lt;/label&gt;&#xA;        &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;&#xA;    &lt;/div&gt;&#xA;    &#xA;    &lt;div class=&#34;&#34;&gt;&#xA;        &lt;label for=&#34;message&#34;&gt;Message:&lt;/label&gt;&#xA;        &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;8&#34; required&gt;&lt;/textarea&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;input type=&#34;hidden&#34; name=&#34;source&#34; id=&#34;source&#34; value=&#34;Moneybird Gmail add-on&#34; /&gt; &#xA;    &lt;div class=&#34;&#34;&gt;&#xA;        &lt;button type=&#34;submit&#34;&gt;Submit&lt;/button&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>https://gmail-to-mb.sandernotenbaert.com/terms/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gmail-to-mb.sandernotenbaert.com/terms/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Last updated: 27-10-2024&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Please read these Terms of Service (&amp;ldquo;Terms&amp;rdquo;) carefully before using the Moneybird Gmail add-on (&amp;ldquo;Service&amp;rdquo; or &amp;ldquo;Add-On&amp;rdquo;) provided by Sander Notenbaert (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;). By accessing or using the Service, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Service.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-description-of-service&#34;&gt;1. Description of Service&lt;/h2&gt;&#xA;&lt;p&gt;The Moneybird Gmail add-on integrates with Google Gmail and Moneybird to facilitate document management and interactions with your Moneybird account from within Gmail. The Service is intended solely to enhance productivity by automating certain tasks associated with document processing and management.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://gmail-to-mb.sandernotenbaert.com/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gmail-to-mb.sandernotenbaert.com/home/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://gmail-to-mb.sandernotenbaert.com/Artboard1.png&#34; alt=&#34;Moneybird&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;moneybird-gmail-add-on&#34;&gt;MoneyBird Gmail add-on&lt;/h1&gt;&#xA;&lt;p&gt;Add-on to conveniently upload any pdf documents directly&#xA;to Moneybird from Gmail. Never forget to upload your invoice,&#xA;ticket or legal document ever again!&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;how-to-install-and-use-the-moneybird-gmail-add-on&#34;&gt;How to Install and Use the Moneybird Gmail Add-On&lt;/h3&gt;&#xA;&lt;p&gt;Follow these steps to set up and start using the Moneybird Gmail add-on:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Install from the Google Marketplace&lt;/strong&gt;&lt;br&gt;&#xA;Go to to the &lt;a href=&#34;https://workspace.google.com/marketplace/&#34; target=&#34;_blank&#34; &gt;add-on&lt;/a&gt;&#xA;&#xA; page in the Google Marketplace. Click &amp;ldquo;Install&amp;rdquo; and follow the on-screen instructions to add it to your Gmail.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

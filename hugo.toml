@@ -1,4 +1,4 @@
 languageCode = 'en-us'
 baseURL = "https://gmail-to-mb.sandernotenbaert.com"
 title = "Moneybird Gmail Add-on"
-disableKinds = ["taxonomy", "taxonomyTerm", "section", "sitemap", "RSS"]  # Simplifies the structure
+disableKinds = ["taxonomy", "taxonomyTerm", "section" ]  # Simplifies the structure
