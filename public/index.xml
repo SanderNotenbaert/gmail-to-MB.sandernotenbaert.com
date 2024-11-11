@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 27 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gmail-to-mb.sandernotenbaert.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About me</title>
+      <link>https://gmail-to-mb.sandernotenbaert.com/me/</link>
+      <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://gmail-to-mb.sandernotenbaert.com/me/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://gmail-to-mb.sandernotenbaert.com/its-a-me.jpg&#34; alt=&#34;its-a-me&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Sander. I do a lot of different thing and where a lot of different &amp;ldquo;hats&amp;rdquo;.&#xA;primarily I&amp;rsquo;m a musician, music producer, educator,&amp;hellip; In that process I have gotten deeper into&#xA;the programming side of things, developing tools for live performance and production. You can&#xA;find some of the things I have made publically available &lt;a href=&#34;https://gumroad.com/fluxwork&#34; target=&#34;_blank&#34; &gt;here&lt;/a&gt;&#xA;&#xA;.&lt;/p&gt;&#xA;&lt;p&gt;As a musician I&amp;rsquo;ve also had to deal with the slop of having to do my own accounting. Every now and then&#xA;I&amp;rsquo;ve been using my increasing programming experience to automate some those things to make my life easier.&#xA;I&amp;rsquo;m really the forgetful type, if it&amp;rsquo;s not right there under my nose, my admin becomes a mess very quickly.&#xA;That&amp;rsquo;s where this add-on comes in, and I might have another tool or two in the pipeline. I hope others&#xA;find it as helpful for their productivity as I have for mine.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Message Sent</title>
       <link>https://gmail-to-mb.sandernotenbaert.com/confirmation/</link>
       <pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate>
